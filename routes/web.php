@@ -11,12 +11,25 @@
 |
 */
 
+use App\User;
+use App\Address;
+
 Route::get('/', function () {
     return view('welcome');
 });
 
 Route::get('/test', function(){
 
-    echo "Test test test";
+    echo "Test test test test test test";
+
+});
+
+Route::get('/insert', function(){
+
+    $user = User::findOrFail(1);
+
+    $address = new Address(['name'=>'104 St Margaret\'s Road, Dublin 11']);
+
+    $user->address()->save($address);
 
 });

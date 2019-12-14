@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67a4c3f8-9bb7-458c-8656-5fadec4a17a6" name="Default Changelist" comment="" />
+    <list default="true" id="67a4c3f8-9bb7-458c-8656-5fadec4a17a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Address.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Address.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_12_13_014206_create_addresses_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_12_13_014206_create_addresses_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +33,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpServers">
     <servers>
@@ -119,6 +129,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UuEHcmSisf5li8J9LJGJiz6SyN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -127,6 +138,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="/usr/bin/php7.3" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
@@ -141,17 +153,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:onetoone@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:onetoone@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@3a1b52e9" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -170,7 +172,11 @@
       <updated>1576197992452</updated>
       <workItem from="1576197994424" duration="112000" />
       <workItem from="1576198174393" duration="1248000" />
-      <workItem from="1576199430230" duration="1952000" />
+      <workItem from="1576199430230" duration="2895000" />
+      <workItem from="1576202650147" duration="306000" />
+      <workItem from="1576239351790" duration="122000" />
+      <workItem from="1576239497934" duration="611000" />
+      <workItem from="1576339728184" duration="982000" />
     </task>
     <servers />
   </component>
@@ -194,10 +200,10 @@
       <screen x="0" y="27" width="2560" height="1332" />
     </state>
     <state x="522" y="153" key="SettingsEditor/0.27.2560.1332/2560.546.1360.768@0.27.2560.1332" timestamp="1576200683492" />
-    <state x="773" y="443" key="com.intellij.ide.util.TipDialog" timestamp="1576198085332">
+    <state x="773" y="443" key="com.intellij.ide.util.TipDialog" timestamp="1576339740055">
       <screen x="0" y="27" width="2560" height="1332" />
     </state>
-    <state x="773" y="443" key="com.intellij.ide.util.TipDialog/0.27.2560.1332/2560.546.1360.768@0.27.2560.1332" timestamp="1576198085332" />
+    <state x="773" y="443" key="com.intellij.ide.util.TipDialog/0.27.2560.1332/2560.546.1360.768@0.27.2560.1332" timestamp="1576339740055" />
     <state x="855" y="517" width="529" height="357" key="webDeployment.PermissionsDialog" timestamp="1576200681128">
       <screen x="0" y="27" width="2560" height="1332" />
     </state>
